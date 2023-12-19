@@ -36,6 +36,7 @@ Simplemente bajate el «source code (zip)» y ponlo dentro de la carpeta del jue
 
 ## Opcional
 En general, los mods opcionales los puedes usar sin falta de que los demás los tengan.
+Para instalarlos ve a la carpeta *BepinEx/OPCIONAL* y mete el mod que quieras (aparecerá como .dll) y lo metes dentro de *BepinEx/plugins*. Si quieres desinstalar o dejar de usarlos de manera temporal, haz el proceso inverso.
 
 - **Skinwalkers** (2.0.1)
 	- Este mod es opcional porque si tu PC no es bueno es probable que el juego te vaya mal. El mod graba tu voz y las de los compis a tramos todo el rato, porque luego los monstruos usarán esas grabaciones para confundirte. 
