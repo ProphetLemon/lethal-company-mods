@@ -1,5 +1,5 @@
 # Instalación
-Simplemente bajate el «source code (zip)» y ponlo dentro de la carpeta del juego.
+Simplemente bajate el [«source code (zip)»](https://github.com/ProphetLemon/lethal-company-mods/releases/latest) y ponlo dentro de la carpeta del juego.
 
 # Mods
 
