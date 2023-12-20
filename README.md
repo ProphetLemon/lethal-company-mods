@@ -43,7 +43,7 @@ Para instalarlos ve a la carpeta *BepInEx/OPCIONAL* y mete el mod que quieras (a
 **IMPORTANTE**: Si lo usas, ***TODOS*** los demás ***TAMBIÉN***, si no, no funciona.
 
 - **WalkieUse** (1.3.1)
-	- Este mod permite que al pulsar R uses automaticamente uses el walkie sin falta de tenerlo seleccionado.	
+	- Este mod permite que al pulsar R uses automaticamente el walkie sin falta de tenerlo seleccionado.	
 
 - **FlashlightToggle** (1.4.1)
-	- Este mod permite que al pulsar F uses automaticamente uses las linterna sin falta de tenerlo seleccionado.
+	- Este mod permite que al pulsar F uses automaticamente la linterna sin falta de tenerla seleccionada.
