@@ -31,7 +31,7 @@ Simplemente bajate el [«source code (zip)»](https://github.com/ProphetLemon/le
 - **Too Many Suits** (1.0.4)
 	- Permite manejar en el perchero muchos trajes
 
-- **Additional Suits** (1.1.1)
+- **Additional Suits** (~~1.1.1~~ -> 1.1.3)
 	- Más trajes
 
 ## Opcional
