@@ -1,49 +1,65 @@
+
+# IMPORTANTE
+Si el juego te va mal, quita el mod de SkinWalkers, está en `BepInEx/plugins/SkinwalkerMod.dll`
+
 # Instalación
 Simplemente bajate el [«source code (zip)»](https://github.com/ProphetLemon/lethal-company-mods/releases/latest) y ponlo dentro de la carpeta del juego.
 
 # Mods
 
-## Básicos
-- **BepInEx** (5.4.22)
-	- El mod launcher, sin esto no funciona ningún mod
+- [**Additional Suits**](https://thunderstore.io/c/lethal-company/p/AlexCodesGames/AdditionalSuits/) (1.1.3)
+  - Más trajes
 
-- **LateCompany** (1.0.6)
-	- Permite añadir gente en medio de la partida
+- [**BepInEx**](https://github.com/BepInEx/BepInEx/releases/latest) (5.4.22)
+  - El mod launcher, sin esto no funciona ningún mod
 
-- **More Company** (1.7.2)
-	- Más gente por lobby
+- [**EmployeeAssignments**](https://thunderstore.io/c/lethal-company/p/amnsoft/EmployeeAssignments/) (1.0.8)
+  - Se les da tareas adicional al personal y si las hacen da dinero extra
 
-- **Helmet Cameras** (2.1.5)
-	- En la nave se puede ver el POV de la persona que estás monitoreando
+- [**FlashlightToggle**](https://thunderstore.io/c/lethal-company/p/Renegades/FlashlightToggle/) (1.5.0)
+  - Este mod permite que al pulsar F uses automáticamente la linterna sin falta de tenerla seleccionada.
 
-- **More Emotes** (1.2.2)
-	- Te permite usar más emotes
+- [**Helmet Cameras**](https://thunderstore.io/c/lethal-company/p/RickArg/Helmet_Cameras/) (2.1.5)
+  - En la nave se puede ver el POV de la persona que estás monitoreando
 
-- **Ship Loot** (1.0.0)
-	- Se puede ver el valor de todos los objetos de la nave dándole botón derecho una vez dentro
+- [**LateCompany**](https://thunderstore.io/c/lethal-company/p/anormaltwig/LateCompany/) (1.0.7)
+  - Permite añadir gente en medio de la partida
 
-- **Mimics** (2.2.1)
-	- Hay puertas falsas que te hacen ñam ñam
+- [**Lategame Upgrades**](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/) (2.8.4)
+  - Nuevos objetos en la tienda
 
-- **More Suits** (1.4.1)
-	- Más trajes gratuitos en la nave
+- [**Mimics**](https://thunderstore.io/c/lethal-company/p/x753/Mimics/) (2.3.0)
+  - Hay puertas falsas que te hacen ñam ñam
 
-- **Too Many Suits** (1.0.4)
-	- Permite manejar en el perchero muchos trajes
+- [**More Company**](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/) (1.7.2)
+  - Más gente por lobby
 
-- **Additional Suits** (~~1.1.1~~ -> 1.1.3)
-	- Más trajes
+- [**More Emotes**](https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes/) (1.2.2)
+  - Te permite usar más emotes
 
-## Opcional
-En general, los mods opcionales los puedes usar sin falta de que los demás los tengan.
-Para instalarlos ve a la carpeta *BepInEx/OPCIONAL* y mete el mod que quieras (aparecerá como .dll) y lo metes dentro de *BepInEx/plugins*. Si quieres desinstalar o dejar de usarlos de manera temporal, haz el proceso inverso.
+- [**MoreItems**](https://thunderstore.io/c/lethal-company/p/Drakorle/MoreItems/) (1.0.1)
+  - Más hueco en el estante
 
-- **Skinwalkers** (2.0.1)
-	- Este mod es opcional porque si tu PC no es bueno es probable que el juego te vaya mal. El mod graba tu voz y las de los compis a tramos todo el rato, porque luego los monstruos usarán esas grabaciones para confundirte. 
-**IMPORTANTE**: Si lo usas, ***TODOS*** los demás ***TAMBIÉN***, si no, no funciona.
+- [**More Suits**](https://thunderstore.io/c/lethal-company/p/x753/More_Suits/) (1.4.1)
+  - Más trajes gratuitos en la nave
 
-- **WalkieUse** (1.3.1)
-	- Este mod permite que al pulsar R uses automaticamente el walkie sin falta de tenerlo seleccionado.	
+- [**Ship Loot**](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLoot/) (1.0.0)
+  - Se puede ver el valor de todos los objetos de la nave dándole botón derecho una vez dentro
 
-- **FlashlightToggle** (1.4.1)
-	- Este mod permite que al pulsar F uses automaticamente la linterna sin falta de tenerla seleccionada.
+- [**Skinwalkers**](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/) (2.0.1)
+  - El mod graba tu voz y las de los compis a tramos todo el rato, porque luego los monstruos usarán esas grabaciones para confundirte.
+
+- [**SpectateEnemies**](https://thunderstore.io/c/lethal-company/p/AllToasters/SpectateEnemies/) (2.0.0)
+  - Puedes spectear al enemigo
+
+- [**Too Many Suits**](https://thunderstore.io/c/lethal-company/p/Verity/TooManySuits/) (1.0.4)
+  - Permite manejar en el perchero muchos trajes
+
+- [**TooManyEmotes**](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/) (1.5.8)
+  - Permite manejar en el perchero muchos trajes
+
+- [**WalkieUse**](https://thunderstore.io/c/lethal-company/p/Renegades/WalkieUse/) (1.4.0)
+  - Este mod permite que al pulsar R uses automáticamente el walkie sin falta de tenerlo seleccionado.
+
+- [**WeatherMultipliers**](https://thunderstore.io/c/lethal-company/p/Blorb/WeatherMultipliers/) (1.1.0)
+  - Los efectos adversos dan mejor Loot
