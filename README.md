@@ -43,6 +43,9 @@ Simplemente bajate el [«source code (zip)»](https://github.com/ProphetLemon/le
 - [**More Suits**](https://thunderstore.io/c/lethal-company/p/x753/More_Suits/) (1.4.1)
   - Más trajes gratuitos en la nave
 
+- [**NeedyCats**](https://thunderstore.io/c/lethal-company/p/Jordo/NeedyCats/) (1.0.2)
+  - Hay que salvar gatitos
+
 - [**Ship Loot**](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLoot/) (1.0.0)
   - Se puede ver el valor de todos los objetos de la nave dándole botón derecho una vez dentro
 
