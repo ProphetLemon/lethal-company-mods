@@ -10,8 +10,14 @@ Simplemente bajate el [«source code (zip)»](https://github.com/ProphetLemon/le
 - [**Additional Suits**](https://thunderstore.io/c/lethal-company/p/AlexCodesGames/AdditionalSuits/) (1.1.3)
   - Más trajes
 
+- [**Backrooms**](https://thunderstore.io/c/lethal-company/p/Backrooms/Backrooms/) (0.1.3)
+  - Añade la posibilidad de que aparezcas en las backrooms
+
 - [**BepInEx**](https://github.com/BepInEx/BepInEx/releases/latest) (5.4.22)
   - El mod launcher, sin esto no funciona ningún mod
+
+- [**EladsHUD**](https://thunderstore.io/c/lethal-company/p/EladNLG/EladsHUD/) (1.1.0)
+  - Mejora el HUD
 
 - [**EmployeeAssignments**](https://thunderstore.io/c/lethal-company/p/amnsoft/EmployeeAssignments/) (1.1.0)
   - Se les da tareas adicional al personal y si las hacen da dinero extra
@@ -66,3 +72,6 @@ Simplemente bajate el [«source code (zip)»](https://github.com/ProphetLemon/le
 
 - [**WeatherMultipliers**](https://thunderstore.io/c/lethal-company/p/Blorb/WeatherMultipliers/) (1.1.0)
   - Los efectos adversos dan mejor Loot
+  
+- [**1000 Quota Stare**](https://thunderstore.io/c/lethal-company/p/ManiaBania/1000_Quota_Stare/) (1.0.0)
+  - Un traje adicional
