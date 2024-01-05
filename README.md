@@ -49,7 +49,7 @@ Simplemente bajate el [«source code (zip)»](https://github.com/ProphetLemon/le
 - [**More Suits**](https://thunderstore.io/c/lethal-company/p/x753/More_Suits/) (1.4.1)
   - Más trajes gratuitos en la nave
 
-- [**NeedyCats**](https://thunderstore.io/c/lethal-company/p/Jordo/NeedyCats/) (1.0.2)
+- [**NeedyCats**](https://thunderstore.io/c/lethal-company/p/Jordo/NeedyCats/) (1.1.1)
   - Hay que salvar gatitos
 
 - [**Ship Loot**](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLoot/) (1.0.0)
@@ -64,7 +64,7 @@ Simplemente bajate el [«source code (zip)»](https://github.com/ProphetLemon/le
 - [**Too Many Suits**](https://thunderstore.io/c/lethal-company/p/Verity/TooManySuits/) (1.0.5)
   - Permite manejar en el perchero muchos trajes
 
-- [**TooManyEmotes**](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/) (1.6.3)
+- [**TooManyEmotes**](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/) (1.6.4)
   - Permite manejar en el perchero muchos trajes
 
 - [**WalkieUse**](https://thunderstore.io/c/lethal-company/p/Renegades/WalkieUse/) (1.4.0)
