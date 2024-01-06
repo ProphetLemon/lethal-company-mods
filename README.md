@@ -16,6 +16,15 @@ Simplemente bajate el [«source code (zip)»](https://github.com/ProphetLemon/le
 - [**BepInEx**](https://github.com/BepInEx/BepInEx/releases/latest) (5.4.22)
   - El mod launcher, sin esto no funciona ningún mod
 
+- [**Boombox Controller**](https://thunderstore.io/c/lethal-company/p/KoderTeh/Boombox_Controller/) (1.1.5)
+  - Permite ponerle a la radio links de youtube para poner musiquita
+
+- [**Coroner**](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/Coroner/) (1.5.3)
+  - Pone la info de por qué moriste
+
+- [**Custom Boombox Music**](https://thunderstore.io/c/lethal-company/p/Steven/Custom_Boombox_Music/) (1.4.0)
+  - Radio con musiquita
+
 - [**EladsHUD**](https://thunderstore.io/c/lethal-company/p/EladNLG/EladsHUD/) (1.1.0)
   - Mejora el HUD
 
@@ -34,7 +43,7 @@ Simplemente bajate el [«source code (zip)»](https://github.com/ProphetLemon/le
 - [**Lategame Upgrades**](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/) (2.8.6)
   - Nuevos objetos en la tienda
 
-- [**Mimics**](https://thunderstore.io/c/lethal-company/p/x753/Mimics/) (2.3.0)
+- [**Mimics**](https://thunderstore.io/c/lethal-company/p/x753/Mimics/) (2.3.1)
   - Hay puertas falsas que te hacen ñam ñam
 
 - [**More Company**](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/) (1.7.2)
