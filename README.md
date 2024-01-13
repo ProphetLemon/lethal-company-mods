@@ -49,6 +49,15 @@ Simplemente bajate el [«source code (zip)»](https://github.com/ProphetLemon/le
 - [**Lategame Upgrades**](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades/) (2.8.8)
   - Nuevos objetos en la tienda
 
+- [**LethalEmotesAPI**](https://thunderstore.io/c/lethal-company/p/Gemumoddo/LethalEmotesAPI/) (1.1.13)
+  - Dependencias
+
+- [**LethalCompany InputUtils**](https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/) (0.4.4)
+  - Dependecias
+  
+- [**LethalConfig**](https://thunderstore.io/c/lethal-company/p/AinaVT/LethalConfig/) (1.3.4)
+  - Dependecias
+
 - [**Mimics**](https://thunderstore.io/c/lethal-company/p/x753/Mimics/) (2.3.2)
   - Hay puertas falsas que te hacen ñam ñam
 
@@ -66,6 +75,9 @@ Simplemente bajate el [«source code (zip)»](https://github.com/ProphetLemon/le
 
 - [**NeedyCats**](https://thunderstore.io/c/lethal-company/p/Jordo/NeedyCats/) (1.1.1)
   - Hay que salvar gatitos
+
+- [**Runtime Netcode Patcher**](https://thunderstore.io/c/lethal-company/p/Ozone/Runtime_Netcode_Patcher/) (0.2.5)
+  - Dependecias
 
 - [**Ship Loot**](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLoot/) (1.0.0)
   - Se puede ver el valor de todos los objetos de la nave dándole botón derecho una vez dentro
